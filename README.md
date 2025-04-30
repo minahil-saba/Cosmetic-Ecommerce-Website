@@ -1,2 +1,2 @@
 # Cosmetic-Ecommerce-Website
-Ecommerce website using Html, Css ,Javascript.
+ Makeup products Ecommerce website using Html, Css ,Javascript.
